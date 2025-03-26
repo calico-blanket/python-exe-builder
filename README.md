@@ -11,7 +11,7 @@ A tool that converts Python scripts to Windows executable files (.exe) with simp
 
 - **Easy Operation**: Convert Python scripts to .exe files just by following guided prompts
 - **Automatic Environment Setup**: Automatically sets up a Python virtual environment
-- **Dependency Management**: Automatically installs specified libraries in the virtual environment (note: libraries must be manually identified)
+- **Dependency Management**: Automatically installs specified libraries in the virtual environment (note: libraries must be manually identified.)
 - **Customization Options**:
   - Icon customization
   - Single file/Folder format selection
@@ -88,7 +88,7 @@ Contributions are welcome! We look forward to issue reports and pull requests fo
 
 - **簡単操作**: ガイド付きのプロンプトに従うだけで、Pythonスクリプトを.exeファイルに変換
 - **自動環境構築**: Python仮想環境を自動的にセットアップ
-- **依存関係の管理**: 指定したライブラリを仮想環境内に自動インストール（※ライブラリの特定は手動で行う必要があります）
+- **依存関係の管理**: 指定したライブラリを仮想環境内に自動インストール（※ライブラリの特定は手動で行う必要があります。）
 - **カスタマイズオプション**:
   - アイコンの変更
   - ワンファイル形式/フォルダ形式の選択
@@ -127,9 +127,9 @@ Contributions are welcome! We look forward to issue reports and pull requests fo
 
 ### 注意事項
 
-- 単一ファイル形式：単一の.exeファイルのみで配布可能
-- フォルダ形式：生成されたフォルダ全体を配布する必要あり（サイズは大きいが起動が速い）
-- 全ての依存関係を正確に指定することで、正常に動作する実行ファイルが生成されます
+- 単一ファイル形式：単一の.exeファイルのみで配布可能（起動が若干重い）
+- フォルダ形式：生成されたフォルダ全体を配布する必要あり。（サイズは大きいが起動が速い）
+- 全ての依存関係を正確に指定することで、正常に動作する実行ファイルが生成されます。
 
 ### 依存関係の特定方法
 
@@ -161,16 +161,11 @@ calico_blanket (猫柄毛布）
 ## Note from the Author / 作者からのお知らせ
 
 私はプロのデベロッパーやソフトエンジニアではなく、単なる、おばちゃんのIT愛好家にすぎません。
-
 このツールは個人的なプロジェクトとして、ClaudeのSonnet3.7の助けを大きく借りて作成しました。
-
 フィードバック、バグ報告、および提案などをいただきましたら、Sonnetと有識者の皆様のお知恵をお借りして、真摯に改善に取り組みたいと思います。
 私の学びと成長ににご協力いただけると幸いです。
 
 I am not a professional developer or software engineer, just a middle-aged woman who is an IT enthusiast.
-
 This tool was created as a personal project with significant help from Claude's Sonnet 3.5 and 3.7.
-
 If you provide feedback, bug reports, or suggestions, I will sincerely work on improvements with the help of Sonnet and knowledgeable community members.
-
 I would appreciate your cooperation in my learning and growth.
