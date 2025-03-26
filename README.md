@@ -78,7 +78,7 @@ MIT
 Contributions are welcome! We look forward to issue reports and pull requests for improvement.
 
 ---
-
+[English](#english)
 <a id="japanese"></a>
 ## Python EXE Builder
 
