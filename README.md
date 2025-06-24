@@ -66,7 +66,7 @@ Recommended tools for identifying dependencies:
 2. **pip-tools**: A set of tools to manage package dependencies
    - https://github.com/jazzband/pip-tools 
 
-3. **dependency-extractor**: by calico-blanket    A tool for extracting dependent libraries from Python scripts
+3. **dependency-extractor**: A tool for extracting dependent libraries from Python scripts　(by calico-blanket)
    - https://github.com/calico-blanket/dependency-extractor
 
 ### License
