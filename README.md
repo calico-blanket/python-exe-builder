@@ -66,7 +66,7 @@ Recommended tools for identifying dependencies:
 2. **pip-tools**: A set of tools to manage package dependencies
    - https://github.com/jazzband/pip-tools 
 
-3. **dependency-extractor**: A tool for extracting dependent libraries from Python scripts
+3. **dependency-extractor**: by calico-blanket    A tool for extracting dependent libraries from Python scripts
    - https://github.com/calico-blanket/dependency-extractor
 
 ### License
@@ -88,7 +88,7 @@ Contributions are welcome! We look forward to issue reports and pull requests fo
 
 - **簡単操作**: ガイド付きのプロンプトに従うだけで、Pythonスクリプトを.exeファイルに変換
 - **自動環境構築**: Python仮想環境を自動的にセットアップ
-- **依存関係の管理**: 指定したライブラリを仮想環境内に自動インストール（※ライブラリの特定は手動で行う必要があります。）
+- **依存関係の管理**: 指定したライブラリを仮想環境内に自動インストール（※ライブラリの特定は手動で行う必要があります。下記にライブラリ特定ツールを紹介）
 - **カスタマイズオプション**:
   - アイコンの変更
   - ワンファイル形式/フォルダ形式の選択
@@ -143,7 +143,7 @@ Contributions are welcome! We look forward to issue reports and pull requests fo
 2. **pip-tools**: 依存関係を管理するツール
    - https://github.com/jazzband/pip-tools
 
-3. **dependency-extractor**: Pythonスクリプトから依存ライブラリを抽出するツール
+3. **dependency-extractor**: Pythonスクリプトから依存ライブラリを抽出するツール　by calico-blanket    
    - https://github.com/calico-blanket/dependency-extractor
 
 ### ライセンス
